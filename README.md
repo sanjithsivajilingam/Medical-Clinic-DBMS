@@ -1,6 +1,6 @@
 # Medical-Clinic-DBMS
 ## About
-An application that encompasses both an administration and customer interface, with corresponding frontend and backend functionalities. The application allows the owner to easily add or remove books and customers, while customers themselves have the ability to make book purchases and accumulate points. JavaFX was employed to handle the frontend, while Java was utilized for the backend implementation.
+A database that promotes efficiency and enhances communication between patients and the health professionals created in a group of 3 students. The database was initially created using SQL Developer and Oracle Apex, and later implemented using extensions SQLTools and MySQL on Visual Studio Code. Tables were created and populated with data. Additionally, multiple different queries, views and joins were used to retrieve and combine the desired data from various database tables.
 ## Screenshots
 | Home Page using Oracle Apex  |
 | ------------- |
