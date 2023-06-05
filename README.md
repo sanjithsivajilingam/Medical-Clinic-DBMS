@@ -14,3 +14,8 @@ Query that counts the number of patients and what blood group they have using SQ
 | Code  | Query |
 | ------------- | ------------- |
 | ![medicalclinicvscode2](https://github.com/sanjithsivajilingam/Medical-Clinic-DBMS/assets/100434687/ce8eafb6-2b4f-47cc-87d5-4997280c0e67)  | ![medicalclinicvscode](https://github.com/sanjithsivajilingam/Medical-Clinic-DBMS/assets/100434687/596a82f0-3031-4b93-8236-66cbe28bc5af)  |
+
+View that displays a list of patients belonging to the O blood group.
+| Code  | Query |
+| ------------- | ------------- |
+| ![medicalclinicvscode3](https://github.com/sanjithsivajilingam/Medical-Clinic-DBMS/assets/100434687/306659d5-86f7-4c24-8df2-f1b4ee3d83d5)  | ![medicalclinicvscode4](https://github.com/sanjithsivajilingam/Medical-Clinic-DBMS/assets/100434687/de5b8a7d-3cbf-4b10-8399-6360978f89fb)  |
