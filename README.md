@@ -10,8 +10,6 @@ An application that encompasses both an administration and customer interface, w
 | ------------- |
 | ![medical-clinic-slide2](https://github.com/sanjithsivajilingam/Medical-Clinic-DBMS/assets/100434687/9555d1f0-db34-4f41-a4aa-1e396de6b4bb)  |
 
-| Query that counts the number of patients and what blood group they have using SQLTools and MySQL extensions. |
-| ------------- |
 | Code  | Query |
 | ------------- | ------------- |
 | ![medicalclinicvscode2](https://github.com/sanjithsivajilingam/Medical-Clinic-DBMS/assets/100434687/ce8eafb6-2b4f-47cc-87d5-4997280c0e67)  | ![medicalclinicvscode](https://github.com/sanjithsivajilingam/Medical-Clinic-DBMS/assets/100434687/596a82f0-3031-4b93-8236-66cbe28bc5af)  |
